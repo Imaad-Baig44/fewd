@@ -1,0 +1,82 @@
+#logo{
+    border-radius: 20%;
+    display: flex;
+    align-items: right;
+    position: right;
+    margin: auto;
+    padding: 5px;
+    width: 10%;
+    position: relative;
+    text-align: right
+    
+
+}
+
+h1,h2{
+    align-items: flex-end;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: right;
+    display: block;
+    font-size: small;
+    line-height: 1.6;
+    align-items: right;
+        color: white;
+        text-align: right;
+        margin: 5px;
+
+
+}
+
+h1{
+    font-size: medium;
+    margin-right: 5px;
+    
+}
+
+header{
+    margin: auto;
+    padding: 10px 30px;
+    background-color:gray;
+}
+
+#college{
+    width: 10%;
+    position: relative;
+    align-items: left;
+    position: left;
+    align-items: flex-s;
+    width: 10%;
+    height: 1%;
+    margin:10px 30px ;
+    
+}
+footer{
+    margin: auto;
+    padding: 10px 30px;
+    background-color: gray;
+}
+
+
+#menu{
+    align-items: baseline;
+}
+
+h3{
+    width: 100%;
+}
+
+#submenu-content{
+    align-items:center;
+}
+
+footer{
+    align-items: center;
+    text-align: center;
+}
+#logo{
+    margin-right: 0%;
+    height: auto;
+}
+#college{
+    margin-left:50%s;
+}
